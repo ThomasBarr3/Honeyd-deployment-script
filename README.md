@@ -12,13 +12,13 @@ Prerequisites:
 
 -Installation Instructions-
 
-Download honeyd_install.sh from this repository.
+1. Download honeyd_install.sh from this repository.
 
-In your terminal, navigate to the directory containing the script and run:
+2. In your terminal, navigate to the directory containing the script and run:
 
   chmod +x honeyd_install.sh
 
-Execute the script with root privileges:
+3. Execute the script with root privileges:
 
   sudo ./honeyd_install.sh
 
