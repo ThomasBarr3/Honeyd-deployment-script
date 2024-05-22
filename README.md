@@ -3,9 +3,11 @@
 This script automates the installation steps for Honeyd, a tool for creating virtual honeypots, along with its necessary dependencies.
 
 Supported Systems:
+
   Ubuntu-based distributions (tested on Ubuntu)
 
 Prerequisites:
+
   Root or sudo privileges
 
 -Installation Instructions-
